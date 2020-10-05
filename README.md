@@ -3,6 +3,8 @@ Tarefas de Machine Learning
 
 Tarefas de MC886 - Aprendizado de Máquina.
 
+**Tarefa 1:** Regressão Linear ([enunciado](https://colab.research.google.com/drive/1vGqNU0GuUcqy9rw2ts74SlYmb8U56rTD?usp=sharing)).
+
 **Dupla:**
   - Bruno Benitez (...)
   - Eduardo Barros Innarelli (170161)
