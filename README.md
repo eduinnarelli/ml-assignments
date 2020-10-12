@@ -1,14 +1,12 @@
-Tarefas de Machine Learning
+MC886 - Machine Learning Assignments
 ================================
 
-Tarefas de MC886 - Aprendizado de Máquina.
+**Assignment 1:** explore Linear Regression solutions to predict the price of diamonds. 
 
-**Tarefa 1:** Regressão Linear ([enunciado](https://colab.research.google.com/drive/1vGqNU0GuUcqy9rw2ts74SlYmb8U56rTD?usp=sharing)).
-
-**Dupla:**
-  - Bruno Benitez (...)
+**Group:**
+  - Bruno Benitez de Carvalho (167920)
   - Eduardo Barros Innarelli (170161)
 
-Disciplina oferecida no 2º semestre de 2020 pela professora [Sandra Avila](https://www.ic.unicamp.br/~sandra/).
+Course given at the second half of 2020 by professor [Sandra Avila](https://www.ic.unicamp.br/~sandra/).
 
-[Instituto de Computação](http://ic.unicamp.br/en) - [UNICAMP](http://www.unicamp.br/unicamp/) (Universidade Estadual de Campinas)
+[Institute of Computing](http://ic.unicamp.br/en) - [UNICAMP](https://www.unicamp.br/unicamp/english) (State University of Campinas)
