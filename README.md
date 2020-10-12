@@ -1,7 +1,7 @@
 MC886 - Machine Learning Assignments
 ================================
 
-**[Assignment 1](https://github.com/eduinnarelli/ml-assignments/blob/master/assignment%201/assignment_1.ipynb):** explore Linear Regression solutions to predict the price of diamonds. 
+**[Assignment 1](https://github.com/eduinnarelli/ml-assignments/blob/master/assignment%201/assignment_1.ipynb):** Linear Regression solutions to predict the price of diamonds. 
 
 **Group:**
   - Bruno Benitez de Carvalho (167920)
